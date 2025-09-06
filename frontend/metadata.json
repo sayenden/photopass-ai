@@ -1,0 +1,7 @@
+{
+  "name": "AI Passport Photo Pro",
+  "description": "A web application that uses AI to help users create passport photos that meet official requirements for various countries. Features include AI-powered background replacement, compliance checks, and automatic formatting for printing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
